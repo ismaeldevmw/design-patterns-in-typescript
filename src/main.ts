@@ -9,5 +9,7 @@
 // import './creational/singleton/singleton-concept'
 // import './creational/singleton/client'
 
-import './structural/decorator/decorator-concept'
-import './structural/decorator/client'
+// import './structural/decorator/decorator-concept'
+// import './structural/decorator/client'
+import './structural/adapter/adapter-concept'
+import './structural/adapter/client'
