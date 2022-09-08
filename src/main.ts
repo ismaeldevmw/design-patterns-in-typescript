@@ -6,5 +6,8 @@
 // import './creational/builder/client'
 // import './creational/prototype/prototype-concept'
 // import './creational/prototype/client'
-import './creational/singleton/singleton-concept'
-import './creational/singleton/client'
+// import './creational/singleton/singleton-concept'
+// import './creational/singleton/client'
+
+import './structural/decorator/decorator-concept'
+import './structural/decorator/client'
